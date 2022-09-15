@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q121BestTimeToBuyAndSellStock", "Q121BestTimeToBuyAndSellStock\Q121BestTimeToBuyAndSellStock.csproj", "{823C03BD-A382-4EA9-8F12-535E8736DF7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{823C03BD-A382-4EA9-8F12-535E8736DF7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{823C03BD-A382-4EA9-8F12-535E8736DF7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{823C03BD-A382-4EA9-8F12-535E8736DF7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{823C03BD-A382-4EA9-8F12-535E8736DF7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08B08375-40F0-4A86-8B43-80F404632947}
+	EndGlobalSection
+EndGlobal
