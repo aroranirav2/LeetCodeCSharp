@@ -1,0 +1,14 @@
+D:\Personal DatA\nirav\source\leetcode\Q125ValidPalindrome\bin\Debug\netcoreapp3.1\Q125ValidPalindrome.exe
+D:\Personal DatA\nirav\source\leetcode\Q125ValidPalindrome\bin\Debug\netcoreapp3.1\Q125ValidPalindrome.deps.json
+D:\Personal DatA\nirav\source\leetcode\Q125ValidPalindrome\bin\Debug\netcoreapp3.1\Q125ValidPalindrome.runtimeconfig.json
+D:\Personal DatA\nirav\source\leetcode\Q125ValidPalindrome\bin\Debug\netcoreapp3.1\Q125ValidPalindrome.runtimeconfig.dev.json
+D:\Personal DatA\nirav\source\leetcode\Q125ValidPalindrome\bin\Debug\netcoreapp3.1\Q125ValidPalindrome.dll
+D:\Personal DatA\nirav\source\leetcode\Q125ValidPalindrome\bin\Debug\netcoreapp3.1\Q125ValidPalindrome.pdb
+D:\Personal DatA\nirav\source\leetcode\Q125ValidPalindrome\obj\Debug\netcoreapp3.1\Q125ValidPalindrome.csproj.AssemblyReference.cache
+D:\Personal DatA\nirav\source\leetcode\Q125ValidPalindrome\obj\Debug\netcoreapp3.1\Q125ValidPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal DatA\nirav\source\leetcode\Q125ValidPalindrome\obj\Debug\netcoreapp3.1\Q125ValidPalindrome.AssemblyInfoInputs.cache
+D:\Personal DatA\nirav\source\leetcode\Q125ValidPalindrome\obj\Debug\netcoreapp3.1\Q125ValidPalindrome.AssemblyInfo.cs
+D:\Personal DatA\nirav\source\leetcode\Q125ValidPalindrome\obj\Debug\netcoreapp3.1\Q125ValidPalindrome.csproj.CoreCompileInputs.cache
+D:\Personal DatA\nirav\source\leetcode\Q125ValidPalindrome\obj\Debug\netcoreapp3.1\Q125ValidPalindrome.dll
+D:\Personal DatA\nirav\source\leetcode\Q125ValidPalindrome\obj\Debug\netcoreapp3.1\Q125ValidPalindrome.pdb
+D:\Personal DatA\nirav\source\leetcode\Q125ValidPalindrome\obj\Debug\netcoreapp3.1\Q125ValidPalindrome.genruntimeconfig.cache
