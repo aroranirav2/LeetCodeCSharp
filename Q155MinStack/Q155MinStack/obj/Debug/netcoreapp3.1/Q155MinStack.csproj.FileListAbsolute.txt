@@ -1,0 +1,14 @@
+D:\Personal Data\Nirav\source\LeetCode\Q155MinStack\Q155MinStack\bin\Debug\netcoreapp3.1\Q155MinStack.exe
+D:\Personal Data\Nirav\source\LeetCode\Q155MinStack\Q155MinStack\bin\Debug\netcoreapp3.1\Q155MinStack.deps.json
+D:\Personal Data\Nirav\source\LeetCode\Q155MinStack\Q155MinStack\bin\Debug\netcoreapp3.1\Q155MinStack.runtimeconfig.json
+D:\Personal Data\Nirav\source\LeetCode\Q155MinStack\Q155MinStack\bin\Debug\netcoreapp3.1\Q155MinStack.runtimeconfig.dev.json
+D:\Personal Data\Nirav\source\LeetCode\Q155MinStack\Q155MinStack\bin\Debug\netcoreapp3.1\Q155MinStack.dll
+D:\Personal Data\Nirav\source\LeetCode\Q155MinStack\Q155MinStack\bin\Debug\netcoreapp3.1\Q155MinStack.pdb
+D:\Personal Data\Nirav\source\LeetCode\Q155MinStack\Q155MinStack\obj\Debug\netcoreapp3.1\Q155MinStack.csproj.AssemblyReference.cache
+D:\Personal Data\Nirav\source\LeetCode\Q155MinStack\Q155MinStack\obj\Debug\netcoreapp3.1\Q155MinStack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Data\Nirav\source\LeetCode\Q155MinStack\Q155MinStack\obj\Debug\netcoreapp3.1\Q155MinStack.AssemblyInfoInputs.cache
+D:\Personal Data\Nirav\source\LeetCode\Q155MinStack\Q155MinStack\obj\Debug\netcoreapp3.1\Q155MinStack.AssemblyInfo.cs
+D:\Personal Data\Nirav\source\LeetCode\Q155MinStack\Q155MinStack\obj\Debug\netcoreapp3.1\Q155MinStack.csproj.CoreCompileInputs.cache
+D:\Personal Data\Nirav\source\LeetCode\Q155MinStack\Q155MinStack\obj\Debug\netcoreapp3.1\Q155MinStack.dll
+D:\Personal Data\Nirav\source\LeetCode\Q155MinStack\Q155MinStack\obj\Debug\netcoreapp3.1\Q155MinStack.pdb
+D:\Personal Data\Nirav\source\LeetCode\Q155MinStack\Q155MinStack\obj\Debug\netcoreapp3.1\Q155MinStack.genruntimeconfig.cache
