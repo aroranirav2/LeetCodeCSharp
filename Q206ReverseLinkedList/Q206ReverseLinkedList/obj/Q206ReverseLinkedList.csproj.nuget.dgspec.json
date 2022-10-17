@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Personal Data\\Nirav\\source\\repos\\LeetCodeCSharp\\Q704BinarySearch\\Q704BinarySearch\\Q704BinarySearch.csproj": {}
+    "D:\\Personal Data\\Nirav\\source\\repos\\LeetCodeCSharp\\Q206ReverseLinkedList\\Q206ReverseLinkedList\\Q206ReverseLinkedList.csproj": {}
   },
   "projects": {
-    "D:\\Personal Data\\Nirav\\source\\repos\\LeetCodeCSharp\\Q704BinarySearch\\Q704BinarySearch\\Q704BinarySearch.csproj": {
+    "D:\\Personal Data\\Nirav\\source\\repos\\LeetCodeCSharp\\Q206ReverseLinkedList\\Q206ReverseLinkedList\\Q206ReverseLinkedList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Personal Data\\Nirav\\source\\repos\\LeetCodeCSharp\\Q704BinarySearch\\Q704BinarySearch\\Q704BinarySearch.csproj",
-        "projectName": "Q704BinarySearch",
-        "projectPath": "D:\\Personal Data\\Nirav\\source\\repos\\LeetCodeCSharp\\Q704BinarySearch\\Q704BinarySearch\\Q704BinarySearch.csproj",
+        "projectUniqueName": "D:\\Personal Data\\Nirav\\source\\repos\\LeetCodeCSharp\\Q206ReverseLinkedList\\Q206ReverseLinkedList\\Q206ReverseLinkedList.csproj",
+        "projectName": "Q206ReverseLinkedList",
+        "projectPath": "D:\\Personal Data\\Nirav\\source\\repos\\LeetCodeCSharp\\Q206ReverseLinkedList\\Q206ReverseLinkedList\\Q206ReverseLinkedList.csproj",
         "packagesPath": "C:\\Users\\arora\\.nuget\\packages\\",
-        "outputPath": "D:\\Personal Data\\Nirav\\source\\repos\\LeetCodeCSharp\\Q704BinarySearch\\Q704BinarySearch\\obj\\",
+        "outputPath": "D:\\Personal Data\\Nirav\\source\\repos\\LeetCodeCSharp\\Q206ReverseLinkedList\\Q206ReverseLinkedList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\arora\\AppData\\Roaming\\NuGet\\NuGet.Config",
