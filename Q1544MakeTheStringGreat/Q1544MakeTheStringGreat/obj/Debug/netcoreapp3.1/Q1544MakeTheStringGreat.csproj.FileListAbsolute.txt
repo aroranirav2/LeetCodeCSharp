@@ -1,0 +1,13 @@
+C:\Users\arora\source\repos\Q1544MakeTheStringGreat\Q1544MakeTheStringGreat\bin\Debug\netcoreapp3.1\Q1544MakeTheStringGreat.exe
+C:\Users\arora\source\repos\Q1544MakeTheStringGreat\Q1544MakeTheStringGreat\bin\Debug\netcoreapp3.1\Q1544MakeTheStringGreat.deps.json
+C:\Users\arora\source\repos\Q1544MakeTheStringGreat\Q1544MakeTheStringGreat\bin\Debug\netcoreapp3.1\Q1544MakeTheStringGreat.runtimeconfig.json
+C:\Users\arora\source\repos\Q1544MakeTheStringGreat\Q1544MakeTheStringGreat\bin\Debug\netcoreapp3.1\Q1544MakeTheStringGreat.runtimeconfig.dev.json
+C:\Users\arora\source\repos\Q1544MakeTheStringGreat\Q1544MakeTheStringGreat\bin\Debug\netcoreapp3.1\Q1544MakeTheStringGreat.dll
+C:\Users\arora\source\repos\Q1544MakeTheStringGreat\Q1544MakeTheStringGreat\bin\Debug\netcoreapp3.1\Q1544MakeTheStringGreat.pdb
+C:\Users\arora\source\repos\Q1544MakeTheStringGreat\Q1544MakeTheStringGreat\obj\Debug\netcoreapp3.1\Q1544MakeTheStringGreat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arora\source\repos\Q1544MakeTheStringGreat\Q1544MakeTheStringGreat\obj\Debug\netcoreapp3.1\Q1544MakeTheStringGreat.AssemblyInfoInputs.cache
+C:\Users\arora\source\repos\Q1544MakeTheStringGreat\Q1544MakeTheStringGreat\obj\Debug\netcoreapp3.1\Q1544MakeTheStringGreat.AssemblyInfo.cs
+C:\Users\arora\source\repos\Q1544MakeTheStringGreat\Q1544MakeTheStringGreat\obj\Debug\netcoreapp3.1\Q1544MakeTheStringGreat.csproj.CoreCompileInputs.cache
+C:\Users\arora\source\repos\Q1544MakeTheStringGreat\Q1544MakeTheStringGreat\obj\Debug\netcoreapp3.1\Q1544MakeTheStringGreat.dll
+C:\Users\arora\source\repos\Q1544MakeTheStringGreat\Q1544MakeTheStringGreat\obj\Debug\netcoreapp3.1\Q1544MakeTheStringGreat.pdb
+C:\Users\arora\source\repos\Q1544MakeTheStringGreat\Q1544MakeTheStringGreat\obj\Debug\netcoreapp3.1\Q1544MakeTheStringGreat.genruntimeconfig.cache
