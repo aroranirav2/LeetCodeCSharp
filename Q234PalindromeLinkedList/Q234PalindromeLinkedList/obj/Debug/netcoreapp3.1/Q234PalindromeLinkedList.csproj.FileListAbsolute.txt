@@ -1,0 +1,14 @@
+C:\Users\arora\source\repos\Q234PalindromeLinkedList\Q234PalindromeLinkedList\bin\Debug\netcoreapp3.1\Q234PalindromeLinkedList.exe
+C:\Users\arora\source\repos\Q234PalindromeLinkedList\Q234PalindromeLinkedList\bin\Debug\netcoreapp3.1\Q234PalindromeLinkedList.deps.json
+C:\Users\arora\source\repos\Q234PalindromeLinkedList\Q234PalindromeLinkedList\bin\Debug\netcoreapp3.1\Q234PalindromeLinkedList.runtimeconfig.json
+C:\Users\arora\source\repos\Q234PalindromeLinkedList\Q234PalindromeLinkedList\bin\Debug\netcoreapp3.1\Q234PalindromeLinkedList.runtimeconfig.dev.json
+C:\Users\arora\source\repos\Q234PalindromeLinkedList\Q234PalindromeLinkedList\bin\Debug\netcoreapp3.1\Q234PalindromeLinkedList.dll
+C:\Users\arora\source\repos\Q234PalindromeLinkedList\Q234PalindromeLinkedList\bin\Debug\netcoreapp3.1\Q234PalindromeLinkedList.pdb
+C:\Users\arora\source\repos\Q234PalindromeLinkedList\Q234PalindromeLinkedList\obj\Debug\netcoreapp3.1\Q234PalindromeLinkedList.csproj.AssemblyReference.cache
+C:\Users\arora\source\repos\Q234PalindromeLinkedList\Q234PalindromeLinkedList\obj\Debug\netcoreapp3.1\Q234PalindromeLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arora\source\repos\Q234PalindromeLinkedList\Q234PalindromeLinkedList\obj\Debug\netcoreapp3.1\Q234PalindromeLinkedList.AssemblyInfoInputs.cache
+C:\Users\arora\source\repos\Q234PalindromeLinkedList\Q234PalindromeLinkedList\obj\Debug\netcoreapp3.1\Q234PalindromeLinkedList.AssemblyInfo.cs
+C:\Users\arora\source\repos\Q234PalindromeLinkedList\Q234PalindromeLinkedList\obj\Debug\netcoreapp3.1\Q234PalindromeLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\arora\source\repos\Q234PalindromeLinkedList\Q234PalindromeLinkedList\obj\Debug\netcoreapp3.1\Q234PalindromeLinkedList.dll
+C:\Users\arora\source\repos\Q234PalindromeLinkedList\Q234PalindromeLinkedList\obj\Debug\netcoreapp3.1\Q234PalindromeLinkedList.pdb
+C:\Users\arora\source\repos\Q234PalindromeLinkedList\Q234PalindromeLinkedList\obj\Debug\netcoreapp3.1\Q234PalindromeLinkedList.genruntimeconfig.cache
