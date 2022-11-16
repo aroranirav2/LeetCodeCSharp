@@ -12,3 +12,17 @@ C:\Users\arora\source\repos\Q234PalindromeLinkedList\Q234PalindromeLinkedList\ob
 C:\Users\arora\source\repos\Q234PalindromeLinkedList\Q234PalindromeLinkedList\obj\Debug\netcoreapp3.1\Q234PalindromeLinkedList.dll
 C:\Users\arora\source\repos\Q234PalindromeLinkedList\Q234PalindromeLinkedList\obj\Debug\netcoreapp3.1\Q234PalindromeLinkedList.pdb
 C:\Users\arora\source\repos\Q234PalindromeLinkedList\Q234PalindromeLinkedList\obj\Debug\netcoreapp3.1\Q234PalindromeLinkedList.genruntimeconfig.cache
+D:\Personal Data\Nirav\source\repos\LeetCodeCSharp\Q234PalindromeLinkedList\Q234PalindromeLinkedList\bin\Debug\netcoreapp3.1\Q234PalindromeLinkedList.exe
+D:\Personal Data\Nirav\source\repos\LeetCodeCSharp\Q234PalindromeLinkedList\Q234PalindromeLinkedList\bin\Debug\netcoreapp3.1\Q234PalindromeLinkedList.deps.json
+D:\Personal Data\Nirav\source\repos\LeetCodeCSharp\Q234PalindromeLinkedList\Q234PalindromeLinkedList\bin\Debug\netcoreapp3.1\Q234PalindromeLinkedList.runtimeconfig.json
+D:\Personal Data\Nirav\source\repos\LeetCodeCSharp\Q234PalindromeLinkedList\Q234PalindromeLinkedList\bin\Debug\netcoreapp3.1\Q234PalindromeLinkedList.runtimeconfig.dev.json
+D:\Personal Data\Nirav\source\repos\LeetCodeCSharp\Q234PalindromeLinkedList\Q234PalindromeLinkedList\bin\Debug\netcoreapp3.1\Q234PalindromeLinkedList.dll
+D:\Personal Data\Nirav\source\repos\LeetCodeCSharp\Q234PalindromeLinkedList\Q234PalindromeLinkedList\bin\Debug\netcoreapp3.1\Q234PalindromeLinkedList.pdb
+D:\Personal Data\Nirav\source\repos\LeetCodeCSharp\Q234PalindromeLinkedList\Q234PalindromeLinkedList\obj\Debug\netcoreapp3.1\Q234PalindromeLinkedList.csproj.AssemblyReference.cache
+D:\Personal Data\Nirav\source\repos\LeetCodeCSharp\Q234PalindromeLinkedList\Q234PalindromeLinkedList\obj\Debug\netcoreapp3.1\Q234PalindromeLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal Data\Nirav\source\repos\LeetCodeCSharp\Q234PalindromeLinkedList\Q234PalindromeLinkedList\obj\Debug\netcoreapp3.1\Q234PalindromeLinkedList.AssemblyInfoInputs.cache
+D:\Personal Data\Nirav\source\repos\LeetCodeCSharp\Q234PalindromeLinkedList\Q234PalindromeLinkedList\obj\Debug\netcoreapp3.1\Q234PalindromeLinkedList.AssemblyInfo.cs
+D:\Personal Data\Nirav\source\repos\LeetCodeCSharp\Q234PalindromeLinkedList\Q234PalindromeLinkedList\obj\Debug\netcoreapp3.1\Q234PalindromeLinkedList.csproj.CoreCompileInputs.cache
+D:\Personal Data\Nirav\source\repos\LeetCodeCSharp\Q234PalindromeLinkedList\Q234PalindromeLinkedList\obj\Debug\netcoreapp3.1\Q234PalindromeLinkedList.dll
+D:\Personal Data\Nirav\source\repos\LeetCodeCSharp\Q234PalindromeLinkedList\Q234PalindromeLinkedList\obj\Debug\netcoreapp3.1\Q234PalindromeLinkedList.pdb
+D:\Personal Data\Nirav\source\repos\LeetCodeCSharp\Q234PalindromeLinkedList\Q234PalindromeLinkedList\obj\Debug\netcoreapp3.1\Q234PalindromeLinkedList.genruntimeconfig.cache

@@ -9,6 +9,7 @@ namespace Q234PalindromeLinkedList
         {
             var list = CreateList();
             Console.WriteLine(IsPalindrome(list));
+            Console.WriteLine(IsPalindrome1(list));
         }
 
         public static bool IsPalindrome(ListNode head)
@@ -31,6 +32,34 @@ namespace Q234PalindromeLinkedList
                 right--;
             }
 
+            return true;
+        }
+        //O(n) and O(1)
+        public static bool IsPalindrome1(ListNode head)
+        {
+            ListNode node = head, fastNode = head;
+            //Node will be at the middle point (roughly)
+            while(fastNode != null && fastNode.next != null)
+            {
+                node = node.next;
+                fastNode = fastNode.next.next;
+            }
+            ListNode previous = null, temp;
+            while(node != null)
+            {
+                temp = node.next;
+                node.next = previous;
+                previous = node;
+                node = temp;
+            }
+            ListNode left = head, right = previous;
+            while(right != null)
+            {
+                if (left.val != right.val)
+                    return false;
+                left = left.next;
+                right = right.next;
+            }
             return true;
         }
         public static ListNode CreateList()
